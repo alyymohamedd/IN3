@@ -1,5 +1,5 @@
 # CIFAR-10 (CNN)
-
+<span style="color:red">  In the code, note a section labeled "(DRAFT)," with commented cells. I initially intended to remove them as they represent early iterations, but I chose to retain them to check the outputs only.<span>
 
 ## Code Structure
 
